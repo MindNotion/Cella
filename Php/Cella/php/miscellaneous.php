@@ -10,11 +10,7 @@
 	exit;
 	}
 
-	if($_SESSION['level']== 0)
-	{
-		echo "<script>alert('Permission Denied: No rights to enter products');window.location ='admin_panel.php'</script>";
-		exit;
-	}
+
 	$_SESSION['product_dimension_count'] =1;
 			
 	$_SESSION['product_image_count'] =1;
