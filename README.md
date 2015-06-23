@@ -1,4 +1,4 @@
-# Cella
+# Cella E-Commerce Solution
 
 Cella is a free open source Php and MYSQl  base e-commerce solution that gives individual, a power to start his/her business and setup his/her online  e-commerce store within 3-4 hours. Using Cella, you can build your own web store to sell products or your own items, or you can build an application that helps others create their own e-commerce storefronts. In short, Cella open the doors to online opportunity so that you can take advantage of Cella's sophisticated e-commerce features and functionality. 
 
