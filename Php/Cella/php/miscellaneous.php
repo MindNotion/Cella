@@ -10,6 +10,7 @@
 	exit;
 	}
 
+
 	$_SESSION['product_dimension_count'] =1;
 			
 	$_SESSION['product_image_count'] =1;
