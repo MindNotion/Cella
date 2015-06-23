@@ -35,7 +35,10 @@
 	$desc = $_POST['desc'];
 	$care = $_POST['care'];
 
-	
+	if (!file_exists('../product_images/')) 
+	{
+		mkdir('../product_images/', 0777, true);
+	}
 	
   //enter product detail description in product table
   $sql = mysql_query("INSERT INTO product (product_id,title, product_code,category,subcategory,color,price,discount_percent,new_arrival,best_seller,hit_count,gender)
