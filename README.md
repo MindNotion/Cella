@@ -22,8 +22,8 @@ Key Concepts
 •	Product search features.
 
 For more detail about installation, setup, features and usage visit 
-http://www.mindnotion.com/cella.php
+http://www.mindnotion-cella.in/
 
 For demo visit
-http://www.mindnotion-cella.in/
+http://www.mindnotion.com/Cella
 
