@@ -25,5 +25,5 @@ For more detail about installation, setup, features and usage visit
 http://www.mindnotion.com/cella.php
 
 For demo visit
-http://www.mindnotion.com/Cella
+http://www.mindnotion-cella.in/
 

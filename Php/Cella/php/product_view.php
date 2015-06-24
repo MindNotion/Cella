@@ -373,7 +373,11 @@ exit;
                        
                     </li>
 					<li>
-                        <a href="miscellaneous.php"><i class="fa fa-fw fa-crosshairs"></i> Miscellaneous <i></i></a>
+                        <a href="miscellaneous.php"><i class="fa fa-fw fa-dashboard"></i> Miscellaneous <i></i></a>
+                       
+                    </li>
+					<li>
+                        <a href="themes.php"><i class="fa fa-fw fa-crosshairs"></i> Styles and Themes <i></i></a>
                        
                     </li>
                     
