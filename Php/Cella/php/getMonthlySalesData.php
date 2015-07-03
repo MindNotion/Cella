@@ -22,7 +22,7 @@ include("connect.php");
 	}
 	else
 	{
-		$response = array('days' => '-1','total_quantity' => '-1','total_price' => '-1');
+		$response = array('days' => '0','total_quantity' => '0','total_price' => '0');
 		$responses[] = $response;
 
 		echo json_encode($responses);
